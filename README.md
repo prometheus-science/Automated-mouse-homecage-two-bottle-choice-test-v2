@@ -10,10 +10,10 @@ a fork of the Kravitz lab device hosted on hackaday https://hackaday.io/project/
 |1 	× 	3 cell battery| https://www.adafruit.com/product/353  ||
 |1 	× 	Short female headers for Feather |https://www.adafruit.com/product/2940  |https://www.digikey.co.uk/en/products/detail/sullins-connector-solutions/PPPC161LFBN-RC/810188|
 |1 	× 	Adafruit Feather OLED wing| https://www.adafruit.com/product/2900  |https://www.digikey.co.uk/en/products/detail/adafruit-industries-llc/2900/5810890|
-|2 	× 	JST 11" 3 pin assemblies| https://vetco.net/products/jst-ph-connector-male-female-pair-pre-wired-3-pin  ||
+|2 	× 	JST 11" 3 pin assemblies| https://vetco.net/products/jst-ph-connector-male-female-pair-pre-wired-3-pin  |https://www.digikey.co.uk/en/products/detail/jst-sales-america-inc/ASPHSPH24K305/6009459 and https://www.digikey.co.uk/en/products/detail/jst-sales-america-inc/PHR-3/527357|
 |2 	× 	JST 3 pin right angle connector |https://www.digikey.com/products/en?keywords=S3B-PH-K-S(LF)(SN)  |https://www.digikey.co.uk/en/products/detail/jst-sales-america-inc/S3B-PH-K-S-LF-SN/926627|
-|2 	× 	SparkFun Photo Interrupter Breakout Board - GP1A57HRJ00F| https://www.sparkfun.com/products/9322  ||
-|2 	× 	Resistor 1K Ohm 1/4th Watt| https://www.sparkfun.com/products/13760  ||
-|2 	× 	Photo Interrupter - GP1A57HRJ00F| https://www.sparkfun.com/products/9299  ||
-|2 	× 	(optional) BNC output cables | http://www.l-com.com/coaxial-test-cable-bnc-female-6-leads-with-tinned-end  ||
+|2 	× 	SparkFun Photo Interrupter Breakout Board - GP1A57HRJ00F| https://www.sparkfun.com/products/9322  |https://www.digikey.co.uk/en/products/detail/sparkfun-electronics/BOB-09322/6006049|
+|2 	× 	Resistor 1K Ohm 1/4th Watt| https://www.sparkfun.com/products/13760  |https://www.digikey.co.uk/en/products/detail/stackpole-electronics-inc/CF14JT1K00/1741314|
+|2 	× 	Photo Interrupter - GP1A57HRJ00F| https://www.sparkfun.com/products/9299  |https://www.digikey.co.uk/en/products/detail/sharp-socle-technology/GP1A57HRJ00F/718287|
+|2 	× 	(optional) BNC output cables | http://www.l-com.com/coaxial-test-cable-bnc-female-6-leads-with-tinned-end  |https://www.digikey.co.uk/en/products/detail/mueller-electric-co/BU-P4969/4073809|
 |1 	× 	microSD card   ||
