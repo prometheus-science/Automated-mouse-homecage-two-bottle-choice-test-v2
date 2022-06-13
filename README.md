@@ -16,4 +16,4 @@ a fork of the Kravitz lab device hosted on hackaday https://hackaday.io/project/
 |2 	× 	Resistor 1K Ohm 1/4th Watt| https://www.sparkfun.com/products/13760  |https://www.digikey.co.uk/en/products/detail/stackpole-electronics-inc/CF14JT1K00/1741314|
 |2 	× 	Photo Interrupter - GP1A57HRJ00F| https://www.sparkfun.com/products/9299  |https://www.digikey.co.uk/en/products/detail/sharp-socle-technology/GP1A57HRJ00F/718287|
 |2 	× 	(optional) BNC output cables | http://www.l-com.com/coaxial-test-cable-bnc-female-6-leads-with-tinned-end  |https://www.digikey.co.uk/en/products/detail/mueller-electric-co/BU-P4969/4073809|
-|1 	× 	microSD card   ||
+|1 	× 	microSD card 8g class4  ||https://www.digikey.co.uk/en/products/detail/parallax-inc/32328/8638942|
